@@ -14,10 +14,8 @@ constructor(width, height){
     }
 
     
-get area(){
-
+getArea() {
     return this._width * this._height;
-    
 }
 	
 }
